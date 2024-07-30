@@ -1,0 +1,38 @@
+module.exports = {
+
+    prefix: 'pm!',
+    status: "idle",
+    eventListeners: 100,
+    dev: "lqrxnz",
+    devBy: "| Developed by lqrxnz",
+    noPermsMessage: `You **do not** have the permission to do that!`,
+
+    slashCommandLoggingChannel: "1266031135952207883",
+    prefixCommandLoggingChannel: "1266031135952207883",
+
+    embedColor: "#e1c4ff",
+    embedAutomod: "Blue",
+    embedCommunity: "Green",
+    embedModLight: "Red",
+    embedModHard: "DarkRed",
+    embedInfo: "LuminousVividPink",
+    embedMusic: "Gold",
+    embedMiniGames: "Orange",
+    embedFun: "Yellow",
+    embedDev: "Aqua",
+    embedProfile: "Navy",
+    embedAuditLogs: "Purple",
+    embedLevels: "Fuchsia",
+    embedEconomy: "DarkOrange",
+    embedVerify: "DarkGreen",
+
+    automodEmoji: "<:auto:1235660206856474704>",
+    modEmojiHard: "<a:mod:1235642403986083840>",
+    modEmojiLight: "<a:wompus:1235671799241510973>",
+    pepeCoffeeEmoji: "<:PM_PepeCoffee:1209433852838154333>",
+    arrowEmoji: "⤵",
+    errorEmoji: "❌",
+    auditLogEmoji: "📋",
+    verifyEmoji: "<a:ver:1244732033339494450>",
+    countSuccessEmoji: "<a:tick:1235674049032486945>",
+}
